@@ -1,0 +1,14 @@
+(module L_0805 (layer F.Cu) (tedit 57BD5CCB)
+  (fp_text reference L20 (at 1.83 -0.926) (layer F.SilkS) hide
+    (effects (font (size 0.524 0.524) (thickness 0.131)))
+  )
+  (fp_text value BLM21 (at 1.83 0.852) (layer F.SilkS) hide
+    (effects (font (size 0.524 0.524) (thickness 0.131)))
+  )
+  (fp_line (start 3.2 0) (end 3.2 -1.6) (layer F.SilkS) (width 0.381))
+  (fp_line (start 3.2 -1.6) (end 0.5 -1.6) (layer F.SilkS) (width 0.381))
+  (fp_line (start 0.5 -1.6) (end 0.5 0) (layer F.SilkS) (width 0.381))
+  (fp_line (start 0.5 0) (end 3.2 0) (layer F.SilkS) (width 0.381))
+  (pad 1 smd rect (at 0.5 -0.8) (size 1 1) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at 3.3 -0.8) (size 1 1) (layers F.Cu F.Paste F.Mask))
+)
