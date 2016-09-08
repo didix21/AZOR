@@ -11,7 +11,18 @@ Moreover, the integrated steppers A4982 have been deleted and instead of that, I
 
 ## About Software 
 
-AZOR 1.0 use [Marlin4Azor](https://github.com/didix21/Marlin4AZOR), it is a modified version of work  done by [Wurstnase](https://github.com/Wurstnase). In other words it is based on [Marlin4Due](https://github.com/Wurstnase/Marlin4Due).
+AZOR 1.0 use [Marlin4AZOR](https://github.com/didix21/Marlin4AZOR), it is a modified version of work  done by [Wurstnase](https://github.com/Wurstnase). In other words it is based on [Marlin4Due](https://github.com/Wurstnase/Marlin4Due).
+
+## Main Features
+
+- MCU: 32-bits, ATSAM3X8E-AU.
+- Port Expansion
+- Support for drivers: A4982 and DRV8825.
+- Two FAN PWM ports.
+- PTS-Panel Header Pin port.
+- SD Header Pin Port.
+- USB 2.0 port.
+
 
 ## License
 
