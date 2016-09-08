@@ -1,4 +1,6 @@
 # AZOR
+<img align="right" src="Documents/Images/logoAzor.bmp"/>
+
 This repository contains all the AZOR 1.0 board KiCad files.  
 
 ## About Hardware 
